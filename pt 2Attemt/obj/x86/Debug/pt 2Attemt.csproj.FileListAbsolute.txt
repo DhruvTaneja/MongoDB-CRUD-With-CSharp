@@ -1,0 +1,19 @@
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt_2Attemt.Form1.resources
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt_2Attemt.Properties.Resources.resources
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\pt 2Attemt.exe
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\pt 2Attemt.pdb
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\MongoDB.Bson.dll
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\MongoDB.Driver.dll
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\MongoDB.Bson.xml
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\bin\Debug\MongoDB.Driver.xml
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt 2Attemt.exe
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt 2Attemt.pdb
+C:\Users\Dhruv\Documents\Visual Studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt_2Attemt.Form2.resources
+C:\Users\Dhruv\Documents\Visual Studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt_2Attemt.Form3.resources
+C:\Users\Dhruv\Documents\Visual Studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt_2Attemt.Edit.resources
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Debug\pt_2Attemt.Find.resources

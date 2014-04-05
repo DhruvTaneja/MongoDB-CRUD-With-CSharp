@@ -1,0 +1,5 @@
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Release\pt_2Attemt.Form1.resources
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Release\pt_2Attemt.Properties.Resources.resources
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Dhruv\documents\visual studio 2010\Projects\pt 2Attemt\pt 2Attemt\obj\x86\Release\GenerateResource.write.1.tlog
